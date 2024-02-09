@@ -59,9 +59,9 @@ Current links from other sites that are connected:
   `user@VM:~# skupper status
 Skupper is enabled for namespace "tyugoku". It is connected to 1 other sites (1 indirectly). It has 1 exposed service.
 The site console url is:  https://skupper init時のアドレス:ポート番号
-The credentials for internal console-auth mode are held in secret: 'skupper-console-users'
-`
-と表示されるのでアクセスすると
+The credentials for internal console-auth mode are held in secret: 'skupper-console-users'`
+
+と表示されるのでこのURLにアクセスすると
 
 <img width="1404" alt="スクリーンショット 2024-02-09 18 27 40" src="https://github.com/kakeru-com/skupper/assets/135799071/08ff60a0-7e58-45ce-8283-bf98834719e5">
 
